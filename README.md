@@ -8,8 +8,10 @@
      <img height="32",width="32" src="https://play-lh.googleusercontent.com/h9jWMwqb-h9hjP4THqrJ50eIwPekjv7QPmTpA85gFQ10PjV02CoGAcYLLptqd19Sa1iJ">
 </p>
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurkanguldas&show_icons=true&locale=en&layout=compact">
-  <img height="165"src="https://github-readme-stats.vercel.app/api?username=gurkanguldas&count_private=true&show_icons=true&icon_color=ce7e00">
+  <a href="https://github.com/gurkanguldas?tab=repositories">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurkanguldas&show_icons=true&locale=en&layout=compact">
+  <a href="https://github.com/gurkanguldas?tab=repositories">
+    <img height="165"src="https://github-readme-stats.vercel.app/api?username=gurkanguldas&count_private=true&show_icons=true&icon_color=ce7e00">
 </p>
 
 
